@@ -52,6 +52,9 @@ that it's got built in navigation and you can browse through the various
 sessions to get a sense of what we'll be doing in the course and how
 the course website is structured.
 
+### Post a short intro message in the Participant Lounge, which is
+on of the Forums on our course Moodle site.
+
 ### Review course logistics sections
 
 Finally, you'll see that there's a link in Moodle to the
