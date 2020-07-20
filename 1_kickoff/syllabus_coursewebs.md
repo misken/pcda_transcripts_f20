@@ -120,7 +120,7 @@ spending the bulk of your time.
 pcda courseweb
 ^^^^^^^^^^^^^^
 
-I would by now that you've already spent some time exploring the
+I would hope by now that you've already spent some time exploring the
 pcda courseweb. You'll notice that it's got navigation built in,
 with buttons for going to the next or previous topics as well as
 to subtopics within a page. You can go to the main Table of
@@ -136,5 +136,87 @@ is broken up into a few main parts:
 * Intro to data analytics with Python (Weeks 9-14)
 
 Let's go back to this week's page, Intro to PCDA Course.
+
+In the Objectives you'll find an overview of what we'll be learning
+about this week.
+
+The Readings section will usually have a mix of readings from our
+various textbooks along with other web based resources. For this
+week I listed the same readings as I list for our next week's 
+session on Linux and the bash shell. Please read through the first
+four sections of the Unix shell tutorial at the Software Carpentry
+site. We'll learn more about Software Carpentry next week.
+
+As we've already seen, there will always be one or more compressed
+archives to download each week. I recommend moving the downloaded
+file to your Documents folder before extracting them. The files
+will either be in zip format for a tar.gz file (a "gzipped tarball").
+
+In the Activities section, you'll find the actual content for
+this week's session. There will be a series of activities and each
+will have one or more screencasts associated with it. This week,
+we've already been through the analytics overview and are going
+through this one on the syllabus and course webs. Next we'll do
+a hands on intro to the pcda VM and then get a preview of both
+R and Python.
+
+Once we get going with R and Python, you'll usually be working
+through things like R Markdown documents or Jupyter notebooks. These
+are exactly the same activities we do in the lab for the face to face
+version of this course. Even in the face to face version, I usually
+leave one or two of the activities for you to work through on your
+own.
+
+Finally, each week's module ends with an optional Explore section
+in which I provide links to some related items such as new tech
+developments, additional learning resources, career advice, humour or
+any number of other things.
+
+Back to Moodle
+--------------
+
+Below the Week 1 Guide, you'll find a little interactive content known
+as an "H5P" item. This one is a quick UNGRADED quiz. It's just meant
+to provide some immediate feedback to make sure you've absorbed some
+key information. It's just a few questions. Do it.
+
+Next comes the Quizzes and Assignments section.
+
+Each week has a Quiz. Notice that quizzes are always due the Monday
+night after the week's session. So this first one opened on Tuesday,
+September 8th and is due by 11:59PM on Monday September 14th.
+
+There are 5 questions. You get 10 minutes, 2 attempts and your recorded score
+is your highest score. I drop your lowest quiz and as it says in
+the syllabus, do NOT email me asking to reopen a quiz because you
+forgot to take it.
+
+Usually, there will also either be a Homework Assignment or a
+Prep Problem assigned. Just click the link and follow the instructions.
+Sometimes I'll include a short Getting Started screencast for 
+assignments to help you out.
+
+This week, there is a Prep Problem assigned. Let's look at it.
+
+[Read the instructions]
+
+So, let's go find the file that you'll need. As the instruction say,
+it's in the Downloads for this week. Let's open it in Geany as it's
+just a text Markdown file. Skimming it, we see that it guides you
+through exploring the pcda VM, then asks you to figure out how to
+do a screenshot and save it and upload it. Then it directs you to
+a few readings. That's it. We'll be exploring the pcda VM later in
+this week's session.
+
+Due dates for Homework Assignments and Prep Problems are clearly
+indicated in Moodle. Get used to looking at your Moodle Dashboard
+as it will indicate items due in all your classes in which the
+instructor uses Moodle for assignments.
+
+Finally, there may be some Additional Resources for you to explore. This
+week, I've created a historical timeline of some key events leading
+to today's growth in data analytics. Check it out.
+
+
 
 
