@@ -1,7 +1,7 @@
-Kickoff - transcript
+Kickoff - transcript (9:09)
 ===========================
 
-Welcome to my Practical Computing for Data Analytics (PCDA) class. We’ll do several things the first week of class:
+Welcome to Week 1 of our Practical Computing for Data Analytics (PCDA) class. We’ll do several things the first week of class:
 
     * Get an overview of the field of business analytics / data science
     * Review course logistics

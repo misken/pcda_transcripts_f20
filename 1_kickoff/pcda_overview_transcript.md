@@ -1,7 +1,7 @@
-pcda class overview - transcript
-================================
+pcda class overview - transcript ()
+=====================================
 
-Welcome to my Practical Computing for Data Analytics (PCDA) class. We’ll do several things the first week of class:
+Welcome to the first week of our Practical Computing for Data Analytics (PCDA) class. We’ll do several things the first week of class:
 
     * Get an overview of the field of business analytics / data science
     * Review course logistics
@@ -9,6 +9,8 @@ Welcome to my Practical Computing for Data Analytics (PCDA) class. We’ll do se
     
 I want everyone to get a very good sense of the kinds of things we'll
 be learning and doing in this course.
+
+Let's use the Week 1 Guide to navigate to this week's session on our pdca courseweb.
 
 As outlined in the [Intro to Week 1 video](), make sure you've got
 this week's Downloads file downloaded and extracted in a location

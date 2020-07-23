@@ -1,12 +1,12 @@
-Intro to data science and business analytics - transcript
-=========================================================
+Intro to data science and business analytics - transcript (9:53)
+================================================================
 
 Conway's Data Science Venn Diagram
 ----------------------------------
 
 One of the first visuals that tried to capture the essence of 
 data science was "Conway's Data Science Venn Diagram". It quickly
-conveys the notion that data science computations computation,
+conveys the notion that data science combines computation,
 statistical thinking and domain specific expertise.
 
 There have been numerous variants proposed and I've linked to a 
