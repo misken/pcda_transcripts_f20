@@ -196,17 +196,8 @@ Prep Problem assigned. Just click the link and follow the instructions.
 Sometimes I'll include a short Getting Started screencast for 
 assignments to help you out.
 
-This week, there is a Prep Problem assigned. Let's look at it.
-
-[Read the instructions]
-
-So, let's go find the file that you'll need. As the instruction say,
-it's in the Downloads for this week. Let's open it in Geany as it's
-just a text Markdown file. Skimming it, we see that it guides you
-through exploring the pcda VM, then asks you to figure out how to
-do a screenshot and save it and upload it. Then it directs you to
-a few readings. That's it. We'll be exploring the pcda VM later in
-this week's session.
+This week, there is a Prep Problem assigned. I do an overview of
+this Prep Problem in the Week 1 Welcome video.
 
 Due dates for Homework Assignments and Prep Problems are clearly
 indicated in Moodle. Get used to looking at your Moodle Dashboard
